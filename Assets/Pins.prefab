@@ -53,6 +53,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin (8)
       objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.6700001
@@ -114,6 +118,10 @@ PrefabInstance:
     - target: {fileID: 2465380741815127955, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_Name
       value: Pin (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -177,6 +185,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin (9)
       objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0
@@ -238,6 +250,10 @@ PrefabInstance:
     - target: {fileID: 2465380741815127955, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_Name
       value: Pin (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -301,6 +317,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin
       objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -1.0600004
@@ -362,6 +382,10 @@ PrefabInstance:
     - target: {fileID: 2465380741815127955, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_Name
       value: Pin (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -425,6 +449,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.42000008
@@ -486,6 +514,10 @@ PrefabInstance:
     - target: {fileID: 2465380741815127955, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_Name
       value: Pin (7)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
@@ -549,6 +581,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Pin (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
+      objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.8800001
@@ -610,6 +646,10 @@ PrefabInstance:
     - target: {fileID: 2465380741815127955, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_Name
       value: Pin (5)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5608672919113014890, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
+      propertyPath: m_CollisionDetection
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 6119310121101338229, guid: 12a9e41737bf42b4fafb6d48696306ab, type: 3}
       propertyPath: m_LocalPosition.x
