@@ -1,5 +1,6 @@
 using UnityEngine;
 using TMPro;
+using System.Collections;
 public class GameManager : MonoBehaviour
 {
     [SerializeField] private float score = 0;
@@ -11,6 +12,7 @@ public class GameManager : MonoBehaviour
     private FallTrigger[] fallTriggers;
     private GameObject pinObjects;
 
+    
 
 
 
@@ -37,11 +39,15 @@ public class GameManager : MonoBehaviour
                    Quaternion.identity, transform);
 
       fallTriggers = FindObjectsByType<FallTrigger>(FindObjectsInactive.Include, FindObjectsSortMode.None);
-      foreach(FallTrigger pin in fallTriggers){
-        pin.OnPinFall.AddListener(IncrementScore);
-      }
-    
-    
+      StartCoroutine(RegisterFallTriggers());
+     
+    }
+
+    private IEnumerator RegisterFallTriggers(){
+        yield return new WaitForSeconds(0.1f);
+        foreach(FallTrigger fallTrigger in fallTriggers){
+            fallTrigger.OnPinFall.AddListener(IncrementScore);
+        }
     }
 
     private void IncrementScore(){
